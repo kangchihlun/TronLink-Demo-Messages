@@ -11,7 +11,7 @@ module.exports = {
       network_id: "*"
     },
     shasta: {
-      privateKey: '',
+      privateKey: 'your private key here',
       consume_user_resource_percent: 30,
       fee_limit: 100000000,
       fullNode: "https://api.shasta.trongrid.io",
